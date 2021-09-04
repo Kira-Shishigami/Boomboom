@@ -16,7 +16,7 @@ Metasploit
 
 <li> pkg install git -y </li>
 
-<li> git clone https://github.com/m0cy3rsy/snoder.git </li>
+<li> git clone https://github.com/Kira-Shishigami/Boomboom </li>
 
 <li> cd snoder </li>
 
